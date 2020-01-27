@@ -9,9 +9,9 @@
 <h2>How To Use</h2> </br>
 
 You need to install </br>
-	Node.js </br>
-	Yarn </br>
-	Expo (use the comand -> yarn global add expo-cli) </br>
+	&emsp; Node.js </br>
+	&emsp; Yarn </br>
+	&emsp; Expo (use the comand -> yarn global add expo-cli) </br>
 
 Go into the repository and use the comand -> yarn install </br>
 To install the dependencies </br>
@@ -19,7 +19,6 @@ To install the dependencies </br>
 When the prompt finishes installing the dependencies, use the command -> yarn start </br>
 
 When the web page will open, you can </br>
-
--Scan the qr code with an Android or iPhone with Expo Application </br>
--Click on 'Run on Android device/emulator </br>
--Click on 'Run on iOS simulator </br>
+&emsp; -Scan the qr code with an Android or iPhone with Expo Application </br>
+&emsp; -Click on 'Run on Android device/emulator </br>
+&emsp; -Click on 'Run on iOS simulator </br>
