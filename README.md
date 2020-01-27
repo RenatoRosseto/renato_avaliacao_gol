@@ -1,25 +1,25 @@
-A Simple temperature application with React Native
+<h1>A Simple temperature application with React Native</h1>
 
-Technologies
-	React Native -> https://facebook.github.io/react-native/
-	MetaWeatherApi -> https://www.metaweather.com/api/
-	Yarn -> https://yarnpkg.com/en/docs/install#windows-stable
-	Expo -> https://expo.io/
+<h2>Technologies</h2> </br>
+	React Native -> https://facebook.github.io/react-native/ </br>
+	MetaWeatherApi -> https://www.metaweather.com/api/ </br>
+	Yarn -> https://yarnpkg.com/en/docs/install#windows-stable </br>
+	Expo -> https://expo.io/ </br>
 	
-How To Use
+<h2>How To Use</h2> </br>
 
-You need to install 
-	Node.js 
-	Yarn 
-	Expo (use the comand -> yarn global add expo-cli)
+You need to install </br>
+	Node.js </br>
+	Yarn </br>
+	Expo (use the comand -> yarn global add expo-cli) </br>
 
-Go into the repository and use the comand -> yarn install
-To install the dependencies
+Go into the repository and use the comand -> yarn install </br>
+To install the dependencies </br>
  
-When the prompt finishes installing the dependencies, use the command -> yarn start
+When the prompt finishes installing the dependencies, use the command -> yarn start </br>
 
-When the web page will open, you can
+When the web page will open, you can </br>
 
--Scan the qr code with an Android or iPhone with Expo Application
--Click on 'Run on Android device/emulator
--Click on 'Run on iOS simulator
+-Scan the qr code with an Android or iPhone with Expo Application </br>
+-Click on 'Run on Android device/emulator </br>
+-Click on 'Run on iOS simulator </br>
